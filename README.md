@@ -24,7 +24,7 @@ I’m open to collaborating on:
 - **Open-source projects** related to **cybersecurity**, **automation**, or **web development**.
 
 ## 📫 How to Reach Me
-- Email: email@catalinbarsan.es
+- Email: stamp-dealer-step@duck.com
 - [LinkedIn](https://www.linkedin.com/in/catalinbarsan)
 
 ## 😄 Pronouns: He/Him
