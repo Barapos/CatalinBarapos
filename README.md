@@ -3,8 +3,8 @@
 I am a **Technical Specialist in Cybersecurity** with a strong focus on **cybersecurity** and **software development**, particularly in Java and Python. With certifications and real-world experience in Cybersecurity and IT Compliance, I am dedicated to improving security and developing robust applications.
 
 ## 👀 Interests
-- **Cybersecurity:** Specializing in threat analysis, compliance management, and cybersecurity best practices.
 - **Software Development:** Experienced in **Java programming** and expanding into **Python** for data analysis and web development.
+- **Cybersecurity:** Specializing in threat analysis, compliance management, and cybersecurity best practices.
 
 ## 🌱 Currently Learning
 - **Java programming** and software architecture through the **Java specialization course** at IT Academy Barcelona.
