@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Catalin Barsan
 
-I am a **Technical Specialist in Cybersecurity** with a strong focus on **cybersecurity** and **software development** like **Java** and **Python**. With certifications and real-world experience in Cybersecurity and IT Compliance, I am dedicated to improving security and developing robust applications.
+I am a **Technical Specialist in Cybersecurity** with a strong focus on **cybersecurity** and **software development**, particularly in Java and Python. With certifications and real-world experience in Cybersecurity and IT Compliance, I am dedicated to improving security and developing robust applications.
 
 ## 👀 Interests
 - **Cybersecurity:** Specializing in threat analysis, compliance management, and cybersecurity best practices.
