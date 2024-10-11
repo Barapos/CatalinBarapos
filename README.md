@@ -30,7 +30,7 @@ I’m open to collaborating on:
 ## 😄 Pronouns: He/Him
 
 ## ⚡ Fun Fact
-I am passionate about **health and fitness**, maintaining an active lifestyle with running and weight training. I also enjoy balancing my technical expertise with a strong interest in **Python programming** for web development. Originally from Romania, I’ve been living in Spain since I was 18.
+I am passionate about **health and fitness**, maintaining an active lifestyle with running and weight training. I also enjoy balancing my technical expertise with a strong interest in **Java & Python programming**. Originally from Romania, I’ve been living in Spain since I was 18.
 
 <!---
 CatalinBarsan/CatalinBarsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
