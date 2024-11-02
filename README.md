@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Catalin Barsan
+# 👋 Hi, I’m Catalin Barsan Apostolescu 
 
 I am a **Technical Specialist in Cybersecurity** with a strong focus on **cybersecurity** and **software development**, particularly in Java and Python. With certifications and real-world experience in Cybersecurity and IT Compliance, I am dedicated to improving security and developing robust applications.
 
@@ -25,7 +25,7 @@ I’m open to collaborating on:
 
 ## 📫 How to Reach Me
 - Email: stamp-dealer-step@duck.com
-- [LinkedIn](https://www.linkedin.com/in/catalinbarsan)
+- [LinkedIn](https://www.linkedin.com/in/catalinapostolescu)
 
 ## 😄 Pronouns: He/Him
 
